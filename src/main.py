@@ -14,6 +14,5 @@ def main():
         writer.writerow(["#", "ИНИЦИАЛЫ"])
         writer.writerows(csv_data)
 
-   # Дописать README.md
 if __name__ == "__main__":
     main()
