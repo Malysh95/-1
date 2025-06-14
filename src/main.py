@@ -14,10 +14,6 @@ def main():
         writer.writerow(["#", "ИНИЦИАЛЫ"])
         writer.writerows(csv_data)
 
-    # Задание: писать инициалы отсортированными по алфавиту (по фамилии)
-    # Дописать README.md
-    # Задание*: писать порядковый номер и в формате csv
-    # `*example.csv`
-
+   # Дописать README.md
 if __name__ == "__main__":
     main()
